@@ -1,0 +1,22 @@
+[2024-09-25 14:29:41] production.ERROR: Class "Modules\Booking\Event" not found {"exception":"[object] (Error(code: 0): Class \"Modules\\Booking\\Event\" not found at C:\\angular\\Vip_travel\\Vip_Travel_Project\\modules\\Booking\\ModuleProvider.php:19)
+[stacktrace]
+#0 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Modules\\Booking\\ModuleProvider->boot(Object(Modules\\Core\\Helpers\\SitemapHelper))
+#1 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#2 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#3 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1034): Illuminate\\Container\\Container->call(Array)
+#6 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1015): Illuminate\\Foundation\\Application->bootProvider(Object(Modules\\Booking\\ModuleProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(Modules\\Booking\\ModuleProvider), 45)
+#8 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1014): array_walk(Array, Object(Closure))
+#9 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(263): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#13 C:\\angular\\Vip_travel\\Vip_Travel_Project\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#14 C:\\angular\\Vip_travel\\Vip_Travel_Project\\public\\index.php(77): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#15 C:\\angular\\Vip_travel\\Vip_Travel_Project\\server.php(21): require_once('C:\\\\angular\\\\Vip_...')
+#16 {main}
+"} 
+[2024-09-25 14:30:47] production.INFO: Starting search for tours {"start_date":"not provided","end_date":"not provided"} 
+[2024-09-25 14:31:30] production.INFO: Starting search for tours {"start_date":"not provided","end_date":"not provided"} 

@@ -1,0 +1,145 @@
+[2024-09-01 23:15:49] production.INFO: Starting search for tours {"start_date":"09/29/2024","end_date":"10/10/2024"} 
+[2024-09-01 23:15:49] production.INFO: Parsed start and end dates {"start_date":"2024-09-29 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:15:49] production.INFO: SubQuery 1: start_date within range {"start_date":"2024-09-29 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:15:49] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-29 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:20:22] production.INFO: Starting search for tours {"start_date":"09/29/2024","end_date":"10/10/2024"} 
+[2024-09-01 23:20:22] production.INFO: Parsed start and end dates {"start_date":"2024-09-29 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:20:22] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-29 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:20:22] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-29 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:23:07] production.INFO: Starting search for tours {"start_date":"10/06/2024","end_date":"10/16/2024"} 
+[2024-09-01 23:23:07] production.INFO: Parsed start and end dates {"start_date":"2024-10-06 00:00:00","end_date":"2024-10-16 00:00:00"} 
+[2024-09-01 23:23:07] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-10-06 00:00:00","end_date":"2024-10-16 00:00:00"} 
+[2024-09-01 23:23:07] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-10-06 00:00:00","end_date":"2024-10-16 00:00:00"} 
+[2024-09-01 23:23:54] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:23:54] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:23:54] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:23:54] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:23:59] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:23:59] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:23:59] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:23:59] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:21] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:24:21] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:21] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:21] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:28] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:24:28] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:28] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:28] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:33] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:24:33] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:33] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:33] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:46] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:24:46] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:46] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:46] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:52] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:24:52] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:52] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:24:52] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:10] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:25:10] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:10] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:10] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:13] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:25:13] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:13] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:13] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:14] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:25:14] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:14] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:14] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:21] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:25:21] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:21] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:21] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:23] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:25:23] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:23] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:25:23] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:28:25] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:28:25] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:28:25] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:28:25] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:28:50] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:28:50] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:28:50] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:28:50] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:30:02] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:30:02] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:30:02] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:30:02] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:30:38] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:30:38] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:30:38] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:30:38] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:30:48] production.INFO: Starting search for tours {"start_date":"not provided","end_date":"not provided"} 
+[2024-09-01 23:31:17] production.INFO: Starting search for tours {"start_date":"not provided","end_date":"not provided"} 
+[2024-09-01 23:31:38] production.INFO: Starting search for tours {"start_date":"not provided","end_date":"not provided"} 
+[2024-09-01 23:49:14] production.INFO: Starting search for tours {"start_date":"09/27/2024","end_date":"10/09/2024"} 
+[2024-09-01 23:49:14] production.INFO: Parsed start and end dates {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:49:14] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:49:14] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-27 00:00:00","end_date":"2024-10-09 00:00:00"} 
+[2024-09-01 23:49:36] production.INFO: Starting search for tours {"start_date":"10/01/2024","end_date":"10/20/2024"} 
+[2024-09-01 23:49:36] production.INFO: Parsed start and end dates {"start_date":"2024-10-01 00:00:00","end_date":"2024-10-20 00:00:00"} 
+[2024-09-01 23:49:36] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-10-01 00:00:00","end_date":"2024-10-20 00:00:00"} 
+[2024-09-01 23:49:36] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-10-01 00:00:00","end_date":"2024-10-20 00:00:00"} 
+[2024-09-01 23:50:02] production.INFO: Starting search for tours {"start_date":"09/28/2024","end_date":"10/10/2024"} 
+[2024-09-01 23:50:02] production.INFO: Parsed start and end dates {"start_date":"2024-09-28 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:50:02] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-28 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:50:02] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-28 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:50:16] production.INFO: Starting search for tours {"start_date":"09/28/2024","end_date":"10/31/2024"} 
+[2024-09-01 23:50:16] production.INFO: Parsed start and end dates {"start_date":"2024-09-28 00:00:00","end_date":"2024-10-31 00:00:00"} 
+[2024-09-01 23:50:16] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-28 00:00:00","end_date":"2024-10-31 00:00:00"} 
+[2024-09-01 23:50:16] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-28 00:00:00","end_date":"2024-10-31 00:00:00"} 
+[2024-09-01 23:50:45] production.INFO: Starting search for tours {"start_date":"09/30/2024","end_date":"10/31/2024"} 
+[2024-09-01 23:50:45] production.INFO: Parsed start and end dates {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-31 00:00:00"} 
+[2024-09-01 23:50:45] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-30 00:00:00","end_date":"2024-10-31 00:00:00"} 
+[2024-09-01 23:50:45] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-31 00:00:00"} 
+[2024-09-01 23:50:50] production.INFO: Starting search for tours {"start_date":"09/30/2024","end_date":"10/31/2024"} 
+[2024-09-01 23:50:50] production.INFO: Parsed start and end dates {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-31 00:00:00"} 
+[2024-09-01 23:50:50] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-30 00:00:00","end_date":"2024-10-31 00:00:00"} 
+[2024-09-01 23:50:50] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-31 00:00:00"} 
+[2024-09-01 23:51:01] production.INFO: Starting search for tours {"start_date":"09/30/2024","end_date":"10/10/2024"} 
+[2024-09-01 23:51:01] production.INFO: Parsed start and end dates {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:51:01] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-30 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:51:01] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:51:04] production.INFO: Starting search for tours {"start_date":"09/30/2024","end_date":"10/10/2024"} 
+[2024-09-01 23:51:04] production.INFO: Parsed start and end dates {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:51:04] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-30 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:51:04] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:53:30] production.INFO: Starting search for tours {"start_date":"09/30/2024","end_date":"10/10/2024"} 
+[2024-09-01 23:53:30] production.INFO: Parsed start and end dates {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:53:59] production.INFO: Starting search for tours {"start_date":"09/30/2024","end_date":"10/10/2024"} 
+[2024-09-01 23:53:59] production.INFO: Parsed start and end dates {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:54:47] production.INFO: Starting search for tours {"start_date":"10/30/2024","end_date":"11/30/2024"} 
+[2024-09-01 23:54:47] production.INFO: Parsed start and end dates {"start_date":"2024-10-30 00:00:00","end_date":"2024-11-30 00:00:00"} 
+[2024-09-01 23:55:05] production.INFO: Starting search for tours {"start_date":"10/30/2024","end_date":"11/14/2024"} 
+[2024-09-01 23:55:05] production.INFO: Parsed start and end dates {"start_date":"2024-10-30 00:00:00","end_date":"2024-11-14 00:00:00"} 
+[2024-09-01 23:55:09] production.INFO: Starting search for tours {"start_date":"10/30/2024","end_date":"11/14/2024"} 
+[2024-09-01 23:55:09] production.INFO: Parsed start and end dates {"start_date":"2024-10-30 00:00:00","end_date":"2024-11-14 00:00:00"} 
+[2024-09-01 23:55:29] production.INFO: Starting search for tours {"start_date":"09/30/2024","end_date":"10/31/2024"} 
+[2024-09-01 23:55:29] production.INFO: Parsed start and end dates {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-31 00:00:00"} 
+[2024-09-01 23:55:55] production.INFO: Starting search for tours {"start_date":"09/30/2024","end_date":"10/03/2024"} 
+[2024-09-01 23:55:55] production.INFO: Parsed start and end dates {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-03 00:00:00"} 
+[2024-09-01 23:57:24] production.INFO: Starting search for tours {"start_date":"09/30/2024","end_date":"10/03/2024"} 
+[2024-09-01 23:57:24] production.INFO: Parsed start and end dates {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-03 00:00:00"} 
+[2024-09-01 23:57:24] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-30 00:00:00","end_date":"2024-10-03 00:00:00"} 
+[2024-09-01 23:57:24] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-30 00:00:00","end_date":"2024-10-03 00:00:00"} 
+[2024-09-01 23:57:36] production.INFO: Starting search for tours {"start_date":"09/28/2024","end_date":"10/03/2024"} 
+[2024-09-01 23:57:36] production.INFO: Parsed start and end dates {"start_date":"2024-09-28 00:00:00","end_date":"2024-10-03 00:00:00"} 
+[2024-09-01 23:57:36] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-28 00:00:00","end_date":"2024-10-03 00:00:00"} 
+[2024-09-01 23:57:36] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-28 00:00:00","end_date":"2024-10-03 00:00:00"} 
+[2024-09-01 23:57:50] production.INFO: Starting search for tours {"start_date":"09/30/2024","end_date":"11/03/2024"} 
+[2024-09-01 23:57:50] production.INFO: Parsed start and end dates {"start_date":"2024-09-30 00:00:00","end_date":"2024-11-03 00:00:00"} 
+[2024-09-01 23:57:50] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-30 00:00:00","end_date":"2024-11-03 00:00:00"} 
+[2024-09-01 23:57:50] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-30 00:00:00","end_date":"2024-11-03 00:00:00"} 
+[2024-09-01 23:58:09] production.INFO: Starting search for tours {"start_date":"09/28/2024","end_date":"10/10/2024"} 
+[2024-09-01 23:58:09] production.INFO: Parsed start and end dates {"start_date":"2024-09-28 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:58:09] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-09-28 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:58:09] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-09-28 00:00:00","end_date":"2024-10-10 00:00:00"} 
+[2024-09-01 23:58:22] production.INFO: Starting search for tours {"start_date":"10/28/2024","end_date":"11/30/2024"} 
+[2024-09-01 23:58:22] production.INFO: Parsed start and end dates {"start_date":"2024-10-28 00:00:00","end_date":"2024-11-30 00:00:00"} 
+[2024-09-01 23:58:22] production.INFO: SubQuery 1: start_date within range {"tour_date":"2024-10-28 00:00:00","end_date":"2024-11-30 00:00:00"} 
+[2024-09-01 23:58:22] production.INFO: SubQuery 2: start_date before end_date and duration overlap {"start_date":"2024-10-28 00:00:00","end_date":"2024-11-30 00:00:00"} 

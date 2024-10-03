@@ -1,0 +1,119 @@
+[2024-08-29 16:00:11] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 8  
+[2024-08-29 16:00:11] production.INFO: Rôle demandé: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:00:11] production.INFO: Vérification de la demande en attente pour le rôle: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:00:11] production.INFO: Résultat de la vérification: Demande en attente trouvée  
+[2024-08-29 16:00:11] production.WARNING: Une demande en attente pour ce rôle existe déjà.  
+[2024-08-29 16:00:50] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 8  
+[2024-08-29 16:00:50] production.INFO: Rôle demandé: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:00:50] production.INFO: Vérification de la demande en attente pour le rôle: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:00:50] production.INFO: Résultat de la vérification: Demande en attente trouvée  
+[2024-08-29 16:00:50] production.WARNING: Une demande en attente pour ce rôle existe déjà.  
+[2024-08-29 16:04:57] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 8  
+[2024-08-29 16:04:57] production.INFO: Rôle demandé: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:04:57] production.INFO: Vérification de la demande en attente pour le rôle: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:04:57] production.INFO: Résultat de la vérification: Demande en attente trouvée  
+[2024-08-29 16:04:57] production.WARNING: Une demande en attente pour ce rôle existe déjà.  
+[2024-08-29 16:05:56] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 8  
+[2024-08-29 16:05:56] production.INFO: Rôle demandé: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:05:56] production.INFO: Vérification de la demande en attente pour le rôle: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:05:56] production.INFO: Résultat de la vérification: Demande en attente trouvée  
+[2024-08-29 16:05:56] production.WARNING: Une demande en attente pour ce rôle existe déjà.  
+[2024-08-29 16:06:09] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 8  
+[2024-08-29 16:06:09] production.INFO: Rôle demandé: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:06:09] production.INFO: Vérification de la demande en attente pour le rôle: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:06:09] production.INFO: Résultat de la vérification: Demande en attente trouvée  
+[2024-08-29 16:06:09] production.WARNING: Une demande en attente pour ce rôle existe déjà.  
+[2024-08-29 16:06:21] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 8  
+[2024-08-29 16:06:21] production.INFO: Rôle demandé: Distributeur de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:06:21] production.INFO: Vérification de la demande en attente pour le rôle: Distributeur de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:06:21] production.INFO: Résultat de la vérification: Aucune demande en attente  
+[2024-08-29 16:06:21] production.INFO: Création d'une nouvelle demande de rôle pour l'utilisateur ID: 8, Rôle: Distributeur de voyage  
+[2024-08-29 16:06:21] production.INFO: Nouvelle demande de rôle sauvegardée avec succès, ID de la demande: 91  
+[2024-08-29 16:06:21] production.INFO: Nouvelle demande de rôle créée avec succès pour l'utilisateur ID: 8  
+[2024-08-29 16:06:21] production.INFO: NewRoleRequestSubmitted event triggered.  
+[2024-08-29 16:06:21] production.INFO: SendRoleRequestNotification listener handling event.  
+[2024-08-29 16:06:26] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 8  
+[2024-08-29 16:06:26] production.INFO: Rôle demandé: Distributeur de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:06:26] production.INFO: Vérification de la demande en attente pour le rôle: Distributeur de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:06:26] production.INFO: Résultat de la vérification: Demande en attente trouvée  
+[2024-08-29 16:06:26] production.WARNING: Une demande en attente pour ce rôle existe déjà.  
+[2024-08-29 16:08:54] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 8  
+[2024-08-29 16:08:54] production.INFO: Rôle demandé: Distributeur de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:08:54] production.INFO: Vérification de la demande en attente pour le rôle: Distributeur de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:08:54] production.INFO: Résultat de la vérification: Aucune demande en attente  
+[2024-08-29 16:08:54] production.INFO: Création d'une nouvelle demande de rôle pour l'utilisateur ID: 8, Rôle: Distributeur de voyage  
+[2024-08-29 16:08:54] production.INFO: Nouvelle demande de rôle sauvegardée avec succès, ID de la demande: 92  
+[2024-08-29 16:08:54] production.INFO: Nouvelle demande de rôle créée avec succès pour l'utilisateur ID: 8  
+[2024-08-29 16:08:54] production.INFO: NewRoleRequestSubmitted event triggered.  
+[2024-08-29 16:08:54] production.INFO: SendRoleRequestNotification listener handling event.  
+[2024-08-29 16:09:09] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 8  
+[2024-08-29 16:09:10] production.INFO: Rôle demandé: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:09:10] production.INFO: Vérification de la demande en attente pour le rôle: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:09:10] production.INFO: Résultat de la vérification: Aucune demande en attente  
+[2024-08-29 16:09:10] production.INFO: Création d'une nouvelle demande de rôle pour l'utilisateur ID: 8, Rôle: Agent de voyage  
+[2024-08-29 16:09:10] production.INFO: Nouvelle demande de rôle sauvegardée avec succès, ID de la demande: 93  
+[2024-08-29 16:09:10] production.INFO: Nouvelle demande de rôle créée avec succès pour l'utilisateur ID: 8  
+[2024-08-29 16:09:10] production.INFO: NewRoleRequestSubmitted event triggered.  
+[2024-08-29 16:09:10] production.INFO: SendRoleRequestNotification listener handling event.  
+[2024-08-29 16:09:23] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 8  
+[2024-08-29 16:09:23] production.INFO: Rôle demandé: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:09:23] production.INFO: Vérification de la demande en attente pour le rôle: Agent de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:09:23] production.INFO: Résultat de la vérification: Demande en attente trouvée  
+[2024-08-29 16:09:23] production.WARNING: Une demande en attente pour ce rôle existe déjà.  
+[2024-08-29 16:09:35] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 8  
+[2024-08-29 16:09:35] production.INFO: Rôle demandé: Distributeur de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:09:35] production.INFO: Vérification de la demande en attente pour le rôle: Distributeur de voyage pour l'utilisateur ID: 8  
+[2024-08-29 16:09:35] production.INFO: Résultat de la vérification: Demande en attente trouvée  
+[2024-08-29 16:09:35] production.WARNING: Une demande en attente pour ce rôle existe déjà.  
+[2024-08-29 16:24:05] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 24  
+[2024-08-29 16:24:05] production.INFO: Rôle demandé: Distributeur de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:24:05] production.INFO: Vérification de la demande en attente pour le rôle: Distributeur de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:24:05] production.INFO: Résultat de la vérification: Aucune demande en attente  
+[2024-08-29 16:24:05] production.INFO: Création d'une nouvelle demande de rôle pour l'utilisateur ID: 24, Rôle: Distributeur de voyage  
+[2024-08-29 16:24:05] production.INFO: Nouvelle demande de rôle sauvegardée avec succès, ID de la demande: 94  
+[2024-08-29 16:24:05] production.INFO: Nouvelle demande de rôle créée avec succès pour l'utilisateur ID: 24  
+[2024-08-29 16:24:05] production.INFO: NewRoleRequestSubmitted event triggered.  
+[2024-08-29 16:24:05] production.INFO: SendRoleRequestNotification listener handling event.  
+[2024-08-29 16:25:09] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 24  
+[2024-08-29 16:25:09] production.INFO: Rôle demandé: Distributeur de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:25:09] production.INFO: Vérification de la demande en attente pour le rôle: Distributeur de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:25:09] production.INFO: Résultat de la vérification: Demande en attente trouvée  
+[2024-08-29 16:25:09] production.WARNING: Une demande en attente pour ce rôle existe déjà.  
+[2024-08-29 16:25:22] production.INFO: RoleRequestUpdated event fired for request ID: 94  
+[2024-08-29 16:25:44] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 24  
+[2024-08-29 16:25:44] production.INFO: Rôle demandé: Agent de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:25:44] production.INFO: Vérification de la demande en attente pour le rôle: Agent de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:25:44] production.INFO: Résultat de la vérification: Aucune demande en attente  
+[2024-08-29 16:25:44] production.INFO: Création d'une nouvelle demande de rôle pour l'utilisateur ID: 24, Rôle: Agent de voyage  
+[2024-08-29 16:25:44] production.INFO: Nouvelle demande de rôle sauvegardée avec succès, ID de la demande: 95  
+[2024-08-29 16:25:44] production.INFO: Nouvelle demande de rôle créée avec succès pour l'utilisateur ID: 24  
+[2024-08-29 16:25:44] production.INFO: NewRoleRequestSubmitted event triggered.  
+[2024-08-29 16:25:44] production.INFO: SendRoleRequestNotification listener handling event.  
+[2024-08-29 16:26:04] production.INFO: RoleRequestUpdated event fired for request ID: 93  
+[2024-08-29 16:26:12] production.INFO: RoleRequestUpdated event fired for request ID: 95  
+[2024-08-29 16:26:43] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 24  
+[2024-08-29 16:26:43] production.INFO: Rôle demandé: Agent de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:26:43] production.INFO: Vérification de la demande en attente pour le rôle: Agent de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:26:43] production.INFO: Résultat de la vérification: Aucune demande en attente  
+[2024-08-29 16:26:43] production.INFO: Création d'une nouvelle demande de rôle pour l'utilisateur ID: 24, Rôle: Agent de voyage  
+[2024-08-29 16:26:43] production.INFO: Nouvelle demande de rôle sauvegardée avec succès, ID de la demande: 96  
+[2024-08-29 16:26:43] production.INFO: Nouvelle demande de rôle créée avec succès pour l'utilisateur ID: 24  
+[2024-08-29 16:26:43] production.INFO: NewRoleRequestSubmitted event triggered.  
+[2024-08-29 16:26:43] production.INFO: SendRoleRequestNotification listener handling event.  
+[2024-08-29 16:29:51] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 24  
+[2024-08-29 16:29:51] production.INFO: Rôle demandé: Agent de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:29:51] production.WARNING: L'utilisateur a déjà le rôle: Agent de voyage  
+[2024-08-29 16:30:55] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 24  
+[2024-08-29 16:30:55] production.INFO: Rôle demandé: Distributeur de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:30:55] production.INFO: Vérification de la demande en attente pour le rôle: Distributeur de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:30:55] production.INFO: Résultat de la vérification: Aucune demande en attente  
+[2024-08-29 16:30:55] production.INFO: Création d'une nouvelle demande de rôle pour l'utilisateur ID: 24, Rôle: Distributeur de voyage  
+[2024-08-29 16:30:55] production.INFO: Nouvelle demande de rôle sauvegardée avec succès, ID de la demande: 97  
+[2024-08-29 16:30:55] production.INFO: Nouvelle demande de rôle créée avec succès pour l'utilisateur ID: 24  
+[2024-08-29 16:30:55] production.INFO: NewRoleRequestSubmitted event triggered.  
+[2024-08-29 16:30:55] production.INFO: SendRoleRequestNotification listener handling event.  
+[2024-08-29 16:31:10] production.INFO: Début du processus de changement de rôle pour l'utilisateur ID: 24  
+[2024-08-29 16:31:10] production.INFO: Rôle demandé: Distributeur de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:31:10] production.INFO: Vérification de la demande en attente pour le rôle: Distributeur de voyage pour l'utilisateur ID: 24  
+[2024-08-29 16:31:10] production.INFO: Résultat de la vérification: Demande en attente trouvée  
+[2024-08-29 16:31:10] production.WARNING: Une demande en attente pour ce rôle existe déjà.  
